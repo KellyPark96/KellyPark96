@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+안녕하세요 열심히 프론트엔드를 공부하고있는 박경은입니다.
+
+- email: <kellypark2032@gmail.com> 
 
 <!--
 **KellyPark96/KellyPark96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellyPark96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
